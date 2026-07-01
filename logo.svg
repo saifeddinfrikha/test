@@ -1,0 +1,10 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="100" r="90" fill="#2563eb"/>
+    <text x="100" y="125"
+          font-size="80"
+          fill="white"
+          text-anchor="middle"
+          font-family="Arial">
+        GR
+    </text>
+</svg>
